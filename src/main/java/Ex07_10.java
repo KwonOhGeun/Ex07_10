@@ -5,7 +5,7 @@ public class Ex07_10 {
 
         for (i = 1; i<=100; i++){
             if (i % 3 != 0)
-                // continue;
+                // continue; 다른 문법으로 표현이 가능하기때문에 굳이 쓰지않는다.
 
             hap += i;
         }
